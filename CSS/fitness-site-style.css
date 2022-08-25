@@ -1,0 +1,52 @@
+#header{
+background-color: #040308;
+background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(../IMAGES/ProfilAppHorizontal.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+}
+
+#navbar{
+    background-color: rgba(0,0,0,.1);
+}
+
+#text-cover{
+    border-radius: 15%;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2))
+}
+#text-cover2{
+    border-radius: 50%;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6))
+}
+#text-cover3{
+    border-radius: 10%;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.7))
+}
+#text-cover4{
+    border-radius: 20%;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5))
+}
+
+
+#first-section{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(../IMAGES/first-section.jpg);
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    height: 100vh;
+}
+#second-section{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(../IMAGES/second-section.jpg);
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    height: 100vh;
+}
+#final-section{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(../IMAGES/final-section.jpg);
+    background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+    height: 100vh;
+}
